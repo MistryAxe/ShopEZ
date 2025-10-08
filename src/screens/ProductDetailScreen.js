@@ -1,4 +1,4 @@
-// src/screens/ProductDetailScreen.js
+
 
 import React, { useContext, useState } from 'react';
 import {

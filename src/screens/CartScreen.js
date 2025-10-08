@@ -1,4 +1,4 @@
-// src/screens/CartScreen.js
+
 
 import React, { useContext, useEffect, useState } from 'react';
 import { View, Text, StyleSheet, FlatList, ActivityIndicator, TouchableOpacity } from 'react-native';

@@ -10,9 +10,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import { AuthContext } from '../../context/AuthContext';
-// The path to validation.js is correct here:
-// From src/screens/RegisterScreen.js go up one level (src/screens) 
-// then into src/utils/validation.js
+
 import { validateEmail, validatePassword } from '../utils/validation'; 
 import { colors, spacing, typography } from '../theme';
 
