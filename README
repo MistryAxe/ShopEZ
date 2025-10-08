@@ -1,0 +1,4 @@
+Instructions
+-open terminal
+-install node_modules
+-npx expo start --clear
